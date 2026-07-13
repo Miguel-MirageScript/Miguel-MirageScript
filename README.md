@@ -83,13 +83,13 @@ Os gráficos abaixo estão configurados para incluir esses commits (`count_priva
   <tr align="center">
     <td width="50%">
       <img 
-        src="https://github-readme-stats.vercel.app/api?username=MigueI-Codestorm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
+        src="https://github-readme-stats.vercel.app/api?username=Miguel-MirageScript&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
         alt="Estatísticas do GitHub de Miguel"
       />
     </td>
     <td width="50%">
       <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=MigueI-Codestorm&layout=compact&theme=tokyonight&langs_count=8&hide=html,css" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-MirageScript&layout=compact&theme=tokyonight&langs_count=8&hide=html,css" 
         alt="Linguagens Mais Usadas por Miguel"
       />
     </td>
@@ -99,7 +99,7 @@ Os gráficos abaixo estão configurados para incluir esses commits (`count_priva
     <td colspan="2">
       <br>
       <img 
-        src="https://streak-stats.demolab.com/?user=MigueI-Codestorm&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" 
+        src="https://streak-stats.demolab.com/?user=Miguel-MirageScript&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" 
         alt="GitHub Streak de Miguel"
       />
     </td>
@@ -120,12 +120,18 @@ alt="Gráfico de Contribuições de Miguel"
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-<h2> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20">  Projetos em Destaque</h2>
+<h2> 🎯 Foco Atual & O Que Estou Construindo</h2>
 
-| Projeto | Descrição | Status |
-| :--- | :--- | :---: |
-| `Food-Delivery` | Um aplicativo de entrega de comida multi-fornecedor completo, construído com foco em escalabilidade. | Em Andamento |
-| `Python CodeStorm` | Plataforma de código aberto criada para ajudar iniciantes a aprender a lógica e a sintaxe do Python. | Pausado |
+Atualmente, dedico meu tempo a transformar a **Mirage Script** em uma agência sólida enquanto avanço nos meus estudos em tecnologias Full-Stack. Além do desenvolvimento web voltado para escalabilidade, tenho um interesse especial na criação de automações e ferramentas utilitárias utilizando **Python** (como bots avançados para comunidades no Discord).
+
+<p align="center">
+  <a href="https://github.com/Miguel-MirageScript/Food-Delivery">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Miguel-MirageScript&repo=Food-Delivery&theme=tokyonight" alt="Card do Repositório Food-Delivery" />
+  </a>
+  <a href="https://github.com/Miguel-MirageScript/Python-CodeStorm">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Miguel-MirageScript&repo=Python-CodeStorm&theme=tokyonight" alt="Card do Repositório Python CodeStorm" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -144,5 +150,5 @@ alt="Gráfico de Contribuições de Miguel"
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MigueI-Codestorm/MigueI-Codestorm/refs/heads/main/assets/assets/ezgif-6c7421c0e005a8.gif" alt="Banner animado de código" width="1000" height="300"/>
+  <img src="https://raw.githubusercontent.com/Miguel-MirageScript/Miguel-MirageScript/main/assets/assets/ezgif-6c7421c0e005a8.gif" alt="Banner animado de código" width="1000" height="300"/>
 </p>
