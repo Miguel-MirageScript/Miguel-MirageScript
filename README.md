@@ -5,9 +5,17 @@
 </h1>
 
 <p align="center">
-  <strong>Desenvolvedor Full-Stack | Fundador da <a href="https://github.com/Mirage-Script" target="_blank">Mirage Script</a></strong>
-  <br>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0077B5&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full-Stack;Automações+e+Bots+em+Python;Fundador+da+Mirage+Script" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
   Estudante de Desenvolvimento na Treina Recife
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Miguel-MirageScript&label=Visualizações+do+Perfil&color=0077B5&style=flat" alt="Contador de Visualizações" />
 </p>
 
 <p align="center">
@@ -37,118 +45,55 @@ Junto com meu sócio, fundei a [**Mirage Script**](https://github.com/Mirage-Scr
 Minha jornada full-stack é construída sobre um conjunto de tecnologias estratégicas. Estou constantemente estudando e me aprofundando nas ferramentas abaixo através de cursos e prática diária, focando em robustez, escalabilidade e agilidade.
 
 <p align="left">
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  </a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,flutter,nodejs,python,git,figma&theme=dark&perline=10" alt="Minha Tech Stack" />
   </a>
 </p>
 
-<h2> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="25">  Minhas Estatísticas no GitHub</h2>
+<h2> 🔥 Meu Ritmo & Dedicação</h2>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Miguel-MirageScript&theme=tokyonight&column=9" alt="Trofêus do GitHub de Miguel-MirageScript" />
+  Como grande parte do meu código e dos projetos de clientes ocorre em <b>repositórios privados</b> sob sigilo, os gráficos padrões não contam toda a história. Mas minha consistência diária e foco em resolver problemas falam por si só:
 </p>
 
-Acredito na transparência e no poder dos dados para contar minha história. É importante notar que grande parte do meu trabalho mais intensivo, incluindo projetos de clientes e estudos aprofundados (que somam centenas de commits), ocorre em **repositórios privados**.
-
-Os gráficos abaixo estão configurados para incluir esses commits (`count_private=true`) e refletem minha dedicação diária.
-
-<table width="100%" align="center">
-  <tr align="center">
-    <td width="50%">
-      <img 
-        src="https://github-readme-stats.vercel.app/api?username=Miguel-MirageScript&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
-        alt="Estatísticas do GitHub de Miguel"
-      />
-    </td>
-    <td width="50%">
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-MirageScript&layout=compact&theme=tokyonight&langs_count=8&hide=html,css" 
-        alt="Linguagens Mais Usadas por Miguel"
-      />
-    </td>
-  </tr>
-  
-  <tr align="center">
-    <td colspan="2">
-      <br>
-      <img 
-        src="https://streak-stats.demolab.com/?user=Miguel-MirageScript&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" 
-        alt="GitHub Streak de Miguel"
-      />
-    </td>
-  </tr>
-  
-  <tr align="center">
-    <td colspan="2">
-      <br>
-<img 
-src="https://github-readme-activity-graph.vercel.app/graph?username=Miguel-MirageScript&theme=react-dark" 
-alt="Gráfico de Contribuições de Miguel"
-/>
-    </td>
-  </tr>
-</table>
-
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
-
-<h2> 🎯 Foco Atual & O Que Estou Construindo</h2>
-
-Atualmente, dedico meu tempo a transformar a **Mirage Script** em uma agência sólida enquanto avanço nos meus estudos em tecnologias Full-Stack. Além do desenvolvimento web voltado para escalabilidade, tenho um interesse especial na criação de automações e ferramentas utilitárias utilizando **Python** (como bots avançados para comunidades no Discord).
-
-<p align="center">
-  <a href="https://github.com/Miguel-MirageScript/Food-Delivery">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Miguel-MirageScript&repo=Food-Delivery&theme=tokyonight" alt="Card do Repositório Food-Delivery" />
-  </a>
-  <a href="https://github.com/Miguel-MirageScript/Python-CodeStorm">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Miguel-MirageScript&repo=Python-CodeStorm&theme=tokyonight" alt="Card do Repositório Python CodeStorm" />
-  </a>
+  <img src="https://streak-stats.demolab.com/?user=Miguel-MirageScript&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" alt="GitHub Streak de Miguel" />
 </p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-<h2> 💡 Minha Filosofia</h2>
+<h2> 🔭 O Que Estou Construindo</h2>
 
-- Pensamento estratégico e criativo na concepção de projetos.
-- Foco em **clareza, estrutura e legibilidade de código**, mesmo como iniciante.
-- Comprometido em aprender com profundidade, não apenas repetir fórmulas prontas.
+Atualmente, dedico meu tempo a transformar a **Mirage Script** em uma agência sólida enquanto avanço nos meus estudos. Aqui está um panorama do que ocupa minha tela diariamente:
 
-> *"Grandes ideias merecem ser construídas com propósito, não com pressa."*
+- 💻 **Desenvolvimento Full-Stack:** Projetando e estruturando aplicações web do zero, focando em código limpo, componentização e escalabilidade.
+- 🤖 **Automações em Python:** Arquitetando ferramentas utilitárias e bots robustos para automatizar tarefas em comunidades e servidores.
+- ⚙️ **Deploy & Infraestrutura:** Dominando o ecossistema de hospedagem moderna, gerenciando domínios e otimizando pipelines de deploy.
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
+<h2> 💻 /profile/miguel.py</h2>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Miguel-MirageScript/Miguel-MirageScript/main/assets/assets/ezgif-6c7421c0e005a8.gif" alt="Banner animado de código" width="1000" height="300"/>
-</p>
+```python
+class MiguelQuiroz:
+    def __init__(self):
+        self.role = "Full-Stack Developer"
+        self.agency = "Mirage Script"
+        self.focus = [
+            "Arquitetura Web", 
+            "Lógica de Programação", 
+            "Desenvolvimento de Bots"
+        ]
+
+    def get_philosophy(self):
+        return "Grandes ideias merecem ser construídas com propósito, não com pressa."
+
+    def get_current_goals(self):
+        return [
+            "Escalar as soluções da Mirage Script",
+            "Aprofundar conhecimentos em back-end e escalabilidade"
+        ]
+
+if __name__ == "__main__":
+    miguel = MiguelQuiroz()
+    print(miguel.get_philosophy())
